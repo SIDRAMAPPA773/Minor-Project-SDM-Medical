@@ -7,7 +7,5 @@ Developed for SDM College of Medical Sciences & Hospital, Dharwad (Ophthalmology
 3. Click 🔊 Listen to hear English or Kannada.
 4. Use the language dropdown to switch between languages.
 
-## Next Steps
-- Add all remaining FAQs to `faq-data.js`
-- Later we can connect a PHP + MySQL backend for doctor/admin updates.
-- Finally, host it on GitHub Pages.
+
+
